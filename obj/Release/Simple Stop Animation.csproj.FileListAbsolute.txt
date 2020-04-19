@@ -1,0 +1,84 @@
+C:\Users\Spencer\source\repos\Simple Stop Animation\bin\Release\Simple Stop Animation.exe.config
+C:\Users\Spencer\source\repos\Simple Stop Animation\bin\Release\Simple Stop Animation.exe
+C:\Users\Spencer\source\repos\Simple Stop Animation\bin\Release\Simple Stop Animation.pdb
+C:\Users\Spencer\source\repos\Simple Stop Animation\obj\Release\Simple_Stop_Animation.Form1.resources
+C:\Users\Spencer\source\repos\Simple Stop Animation\obj\Release\Simple_Stop_Animation.Properties.Resources.resources
+C:\Users\Spencer\source\repos\Simple Stop Animation\obj\Release\Simple Stop Animation.csproj.GenerateResource.cache
+C:\Users\Spencer\source\repos\Simple Stop Animation\obj\Release\Simple Stop Animation.csproj.CoreCompileInputs.cache
+C:\Users\Spencer\source\repos\Simple Stop Animation\obj\Release\Simple Stop Animation.exe
+C:\Users\Spencer\source\repos\Simple Stop Animation\obj\Release\Simple Stop Animation.pdb
+C:\Users\Spencer\source\repos\Simple Stop Animation\obj\Release\Simple Stop Animation.csproj.CopyComplete
+C:\Users\Spencer\source\repos\Simple Stop Animation\obj\Release\Simple Stop Animation.csprojAssemblyReference.cache
+C:\Users\Spencer\source\repos\Simple Stop Animation\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation\bin\Release\dll\x86\opencv_ffmpeg400.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation\bin\Release\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation\bin\Release\OpenCvSharp.Blob.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation\bin\Release\OpenCvSharp.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation\bin\Release\OpenCvSharp.pdb
+C:\Users\Spencer\source\repos\Simple Stop Animation\bin\Release\OpenCvSharp.xml
+C:\Users\Spencer\source\repos\Simple Stop Animation\bin\Release\OpenCvSharp.Blob.pdb
+C:\Users\Spencer\source\repos\Simple Stop Animation\bin\Release\OpenCvSharp.Blob.xml
+C:\Users\Spencer\source\repos\Simple Stop Animation\bin\Release\OpenCvSharp.Extensions.pdb
+C:\Users\Spencer\source\repos\Simple Stop Animation\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\Spencer\source\repos\Simple Stop Animation\bin\Release\OpenCvSharp.UserInterface.pdb
+C:\Users\Spencer\source\repos\Simple Stop Animation\bin\Release\OpenCvSharp.UserInterface.xml
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\obj\Release\Simple Stop Animation.csprojAssemblyReference.cache
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\obj\Release\Simple_Stop_Animation.Form1.resources
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\obj\Release\Simple_Stop_Animation.Properties.Resources.resources
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\obj\Release\Simple Stop Animation.csproj.GenerateResource.cache
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\obj\Release\Simple Stop Animation.csproj.CoreCompileInputs.cache
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\obj\Release\Simple Stop Animation.exe
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\obj\Release\Simple Stop Animation.pdb
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\bin\Release\dll\x86\opencv_ffmpeg400.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\bin\Release\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\bin\Release\avcodec-57.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\bin\Release\avdevice-57.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\bin\Release\avfilter-6.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\bin\Release\avformat-57.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\bin\Release\avutil-55.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\bin\Release\postproc-54.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\bin\Release\swresample-2.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\bin\Release\swscale-4.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\bin\Release\Accord.dll.config
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\bin\Release\Simple Stop Animation.exe.config
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\bin\Release\Simple Stop Animation.exe
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\bin\Release\Simple Stop Animation.pdb
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\bin\Release\Accord.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\bin\Release\Accord.Video.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\bin\Release\Accord.Video.FFMPEG.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\bin\Release\OpenCvSharp.Blob.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\bin\Release\OpenCvSharp.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\bin\Release\Accord.xml
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\bin\Release\Accord.Video.xml
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\bin\Release\Accord.Video.FFMPEG.xml
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\bin\Release\OpenCvSharp.pdb
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\bin\Release\OpenCvSharp.xml
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\bin\Release\OpenCvSharp.Blob.pdb
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\bin\Release\OpenCvSharp.Blob.xml
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\bin\Release\OpenCvSharp.Extensions.pdb
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\bin\Release\OpenCvSharp.UserInterface.pdb
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\bin\Release\OpenCvSharp.UserInterface.xml
+C:\Users\Spencer\source\repos\Simple Stop Animation 2\obj\Release\Simple Stop Animation.csproj.CopyComplete
+C:\Users\Spencer\source\repos\Simple Stop Animation\bin\Release\avcodec-57.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation\bin\Release\avdevice-57.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation\bin\Release\avfilter-6.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation\bin\Release\avformat-57.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation\bin\Release\avutil-55.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation\bin\Release\postproc-54.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation\bin\Release\swresample-2.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation\bin\Release\swscale-4.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation\bin\Release\Accord.dll.config
+C:\Users\Spencer\source\repos\Simple Stop Animation\bin\Release\Accord.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation\bin\Release\Accord.Video.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation\bin\Release\Accord.Video.FFMPEG.dll
+C:\Users\Spencer\source\repos\Simple Stop Animation\bin\Release\Accord.xml
+C:\Users\Spencer\source\repos\Simple Stop Animation\bin\Release\Accord.Video.xml
+C:\Users\Spencer\source\repos\Simple Stop Animation\bin\Release\Accord.Video.FFMPEG.xml
